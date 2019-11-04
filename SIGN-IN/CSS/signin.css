@@ -1,0 +1,83 @@
+body{
+    
+}
+#kay{
+    border-radius: 5px;
+    background-color: wheat;
+}
+#in{
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+#up{
+    font-size: 25px;
+    border-top: 3px solid green;
+}
+#up:hover{
+    background-color: grey;
+}
+#but{
+    background-color: peru;
+}
+#few{
+    border: 1px solid grey;
+}
+.hey{
+    border-bottom: 1px solid gray;
+    width: 330px;
+}
+.button.google-plus{
+    background: #db4a39;
+}
+.button {
+
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    padding-right: 30px;
+    padding-left: 70px;
+    position: relative;
+    background-color:rgb(0,0,0);
+    color:rgb(255,255,255);
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: 1px;
+    margin-bottom: 14px;
+    text-shadow:1px 1px 0px rgba(0,0,0,0.5);
+    margin-right:40px;
+  }
+  
+  .button:hover{
+    text-decoration: none;
+    color: #fff;
+    text-shadow: none;
+  }
+  
+  .button p{font-size: 18px;}
+  .button span {
+    position: absolute;
+    left: 0;
+    width: 50px;
+    font-size:30px;
+    -webkit-border-top-left-radius: 5px;
+  -webkit-border-bottom-left-radius: 5px;
+  -moz-border-radius-topleft: 5px;
+  -moz-border-radius-bottomleft: 5px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-right: 1px solid  rgba(0,0,0,0.15);
+      text-decoration: none;
+  }
+  .button.facebook {
+    background: #3b5998;
+   }
+   .form-check-input{
+       display: flex;
+       margin-left: 100px;
+   }
+   .ko{
+       display: flex;
+       
+   }
+   
